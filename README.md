@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lukejll
-- 👀 I’m interested in databases and bigdata
-- 🌱 I’m currently learning pyspark and scala
-- 💞️ I’m looking to collaborate on AZARA v2
+- 👋 Hi, Luke here
+- 👀 Interests:  databases, bigdata, cloud, cube.js, visualisations, commercial real estate
+- 🌱 I’m currently learning datavault, cube.js, JDE, Corrigo  
+- 💞️ I’m working on JLL AZARA v2 Research team
 
 
 <!---
